@@ -9,7 +9,7 @@ h1{
     color: khaki;
     text-align:center;
     background-size: cover;
-    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    background-image: url(../images/pattern.jpeg);
 }   
 
 h2{
